@@ -11,6 +11,7 @@ UI Interface:
 - When the data is fetched, the app should hide the loading spinner and show the recipes’ view.
 
 Screen shots:
-![alt text](https://github.com/hellofreshdevtests/ramav2389-android-test-2.0/blob/develop/task2/src/main/res/drawable/screen_shot.png?raw=true)
+
+![alt text](https://github.com/ramav2389/MVVMWithHilt/blob/main/task2/src/main/res/drawable/screen_shot.png)
 
 
